@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-storage/#history
 
+## [2.1.0](https://www.github.com/googleapis/python-bigquery-storage/compare/v2.0.1...v2.1.0) (2020-10-28)
+
+
+### Features
+
+* add public transport property and path formatting methods to client ([#80](https://www.github.com/googleapis/python-bigquery-storage/issues/80)) ([fbbb439](https://www.github.com/googleapis/python-bigquery-storage/commit/fbbb439b8c77fa9367a4b5bea725dd0b0f26b769))
+
 ### [2.0.1](https://www.github.com/googleapis/python-bigquery-storage/compare/v2.0.0...v2.0.1) (2020-10-21)
 
 
